@@ -1,3 +1,4 @@
+## Develop the following program:
 * Open a Notepad application on your computer, write phrase “This is my Java read test”, and save it under filename “my_test_file.txt”
 * Read this file from your Java program and print the phrase in the Java terminal.
 * Enter phrase “Java write test” into your Java program from the Java terminal.
