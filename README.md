@@ -7,3 +7,10 @@
 * Modify the record in the Java program.
 * Update the appropriate record in the database.
 * Make sure you restore (rollback) the previous information in the database to continue your database class assignments
+
+
+
+## Files
+- `HW12.java` - Main program
+- `my_test_file.txt` - Test file for read/write operations
+- `sqlite-jdbc-3.50.2.0.jar` - SQLite JDBC driver
